@@ -7,4 +7,4 @@
 - 😄 Want to be a quant researcher in the future...
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EasyMoneySniper-DJ)
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EasyMoneySniper-DJ)
+
