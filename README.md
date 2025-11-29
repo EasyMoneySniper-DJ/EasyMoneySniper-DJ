@@ -6,5 +6,4 @@
 - 🔭 Interested in machine learning and factor mining, wanna explore more!
 - 😄 Want to be a quant researcher in the future...
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EasyMoneySniper-DJ)
 
